@@ -8,9 +8,9 @@
 
 ```
 owner:
-    hid: 000
-    name: Gregor von Laszewski
-    url: https://github.com/bigdata-i523/sample-hid000
+    hid: 324
+    name: Watts, Bradley
+    url: https://github.com/bigdata-i523/hid324
 ```
 
 # Paper 1
